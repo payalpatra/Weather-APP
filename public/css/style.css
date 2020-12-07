@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(76, 118, 173);
+  background-color: #706897;
+  background-color: #01001a;
+  background-image: url("https://www.transparenttextures.com/patterns/noisy.png");
+}
+
+.main {
+  margin-top: 20rem;
+}
+.container {
+  background-color: rgb(143, 156, 180);
+  background-color: #9088d4;
+  background-color: #00064a;
+  background-image: url("https://www.transparenttextures.com/patterns/rough-diagonal.png");
+
+  width: max-content;
+  border: solid 3px;
+  box-shadow: 5px 10px #888888;
+}
+.text {
+  color: white;
+}
